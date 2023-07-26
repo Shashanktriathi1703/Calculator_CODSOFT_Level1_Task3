@@ -17,7 +17,7 @@ This is a simple calculator built using HTML, CSS, and JavaScript. It allows use
 ## How to use
 
 1. Clone or download the repository to your local machine.
-2. Open the `calculator.html` file in your web browser.
+2. Open the `Calculator.html` file in your web browser.
 3. Use the calculator to perform arithmetic operations.
 
 ## Technologies used
