@@ -9,6 +9,11 @@ This is a simple calculator built using HTML, CSS, and JavaScript. It allows use
 - Multiplication
 - Division
 
+## Demo
+
+![calculator](https://github.com/Shashanktriathi1703/Calculator_CODSOFT_Level1_Task3/assets/105815482/0875b3af-fa13-4c87-8aca-c9ac9f53b6a7)
+
+
 ## How to use
 
 1. Clone or download the repository to your local machine.
