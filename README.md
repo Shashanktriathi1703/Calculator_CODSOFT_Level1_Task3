@@ -31,7 +31,7 @@ link: [http://127.0.0.1:5500/CODSOFTJULY/Calculator_CODSOFT_Level1_Task3/Calcula
 
 ## Credits
 
-This calculator was built by [Shashank Tripathi] as a project for [CODSOFT Internships]. 
+This calculator was built by `Shashank Tripathi` as a project for `CODSOFT Internships`. 
 
 ## License
 
